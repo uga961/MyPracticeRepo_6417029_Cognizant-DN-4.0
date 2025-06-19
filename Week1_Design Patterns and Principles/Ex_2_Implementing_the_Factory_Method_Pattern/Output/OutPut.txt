@@ -1,0 +1,107 @@
+C:\Users\annaj\.jdks\openjdk-24.0.1\bin\java.exe "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2025.1.2\lib\idea_rt.jar=62528" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "D:\Cognizant DN 4.0\Week1_Design Patterns and Principles\Ex_2_Implementing_the_Factory_Method_Pattern\Code\out\production\Code" com.example.factory.test.DocumentFactoryTest
+=== Factory Method Pattern Demo ===
+
+1. Basic Factory Usage:
+=== Document Processing Started ===
+WordDocumentFactory: Creating new Word document...
+Document Type: Microsoft Word Document
+Creation Time: 2025-06-19T12:57:51.599375100
+Opening Word document: Document_20250619_125751.docx
+Loading Microsoft Word application...
+Saving Word document: Document_20250619_125751.docx
+Document saved in .docx format
+=== Document Processing Completed ===
+Closing Word document: Document_20250619_125751.docx
+Microsoft Word application closed
+
+=== Document Processing Started ===
+PdfDocumentFactory: Creating new PDF document...
+Document Type: Portable Document Format
+Creation Time: 2025-06-19T12:57:51.612940900
+Opening PDF document: Document_20250619_125751.pdf
+Loading PDF reader application...
+Saving PDF document: Document_20250619_125751.pdf
+Document saved in .pdf format
+=== Document Processing Completed ===
+Closing PDF document: Document_20250619_125751.pdf
+PDF reader application closed
+
+=== Document Processing Started ===
+ExcelDocumentFactory: Creating new Excel document...
+Document Type: Microsoft Excel Spreadsheet
+Creation Time: 2025-06-19T12:57:51.616138300
+Opening Excel document: Spreadsheet_20250619_125751.xlsx
+Loading Microsoft Excel application...
+Saving Excel document: Spreadsheet_20250619_125751.xlsx
+Workbook saved in .xlsx format
+=== Document Processing Completed ===
+Closing Excel document: Spreadsheet_20250619_125751.xlsx
+Microsoft Excel application closed
+
+==================================================
+
+2. Factory Registry Usage:
+Supported document types: WORD, EXCEL, PDF
+WordDocumentFactory: Creating new Word document...
+Opening Word document: Document_20250619_125751.docx
+Loading Microsoft Word application...
+Saving Word document: Document_20250619_125751.docx
+Document saved in .docx format
+Closing Word document: Document_20250619_125751.docx
+Microsoft Word application closed
+
+PdfDocumentFactory: Creating new PDF document...
+Opening PDF document: Document_20250619_125751.pdf
+Loading PDF reader application...
+Saving PDF document: Document_20250619_125751.pdf
+Document saved in .pdf format
+Closing PDF document: Document_20250619_125751.pdf
+PDF reader application closed
+
+ExcelDocumentFactory: Creating new Excel document...
+Opening Excel document: Spreadsheet_20250619_125751.xlsx
+Loading Microsoft Excel application...
+Saving Excel document: Spreadsheet_20250619_125751.xlsx
+Workbook saved in .xlsx format
+Closing Excel document: Spreadsheet_20250619_125751.xlsx
+Microsoft Excel application closed
+
+
+==================================================
+
+3. Full Document Operations:
+WordDocumentFactory: Creating new Word document...
+Document Type: Microsoft Word Document
+Opening Word document: Document_20250619_125751.docx
+Loading Microsoft Word application...
+Saving Word document: Document_20250619_125751.docx
+Document saved in .docx format
+Printing Word document: Document_20250619_125751.docx
+Sending to default printer...
+Closing Word document: Document_20250619_125751.docx
+Microsoft Word application closed
+------------------------------
+PdfDocumentFactory: Creating new PDF document...
+Document Type: Portable Document Format
+Opening PDF document: Document_20250619_125751.pdf
+Loading PDF reader application...
+Saving PDF document: Document_20250619_125751.pdf
+Document saved in .pdf format
+Printing PDF document: Document_20250619_125751.pdf
+High-quality print mode enabled...
+Closing PDF document: Document_20250619_125751.pdf
+PDF reader application closed
+------------------------------
+ExcelDocumentFactory: Creating new Excel document...
+Document Type: Microsoft Excel Spreadsheet
+Opening Excel document: Spreadsheet_20250619_125751.xlsx
+Loading Microsoft Excel application...
+Saving Excel document: Spreadsheet_20250619_125751.xlsx
+Workbook saved in .xlsx format
+Printing Excel document: Spreadsheet_20250619_125751.xlsx
+Printing all worksheets...
+Closing Excel document: Spreadsheet_20250619_125751.xlsx
+Microsoft Excel application closed
+------------------------------
+
+Process finished with exit code 0
