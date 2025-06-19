@@ -17,8 +17,8 @@ All submissions are aligned with **Subject Matter Expert (SME)** evaluation stan
 ```
 ├── [WeekNumber]_[Skill]/
 │   ├── [HandsonNumber]_[ExerciseName]/       # Sub-folder for each exercise
-│   ├── Code/                                 # Contains source code files
-│   ├── Output/                               # Contains output screenshots/files
+│   |   ├── Code/                                 # Contains source code files
+│   |   ├── Output/                               # Contains output screenshots/files
 ```
 
 
