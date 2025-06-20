@@ -29,7 +29,7 @@ All submissions are aligned with **Subject Matter Expert (SME)** evaluation stan
 
 ## 🛠 Development Environment
 
-* **IDE**: IntelliJ IDEA (with proper formatting and naming conventions)
+* **IDE**: Microsoft Visual Studio & Visual Studio Code (with proper formatting and naming conventions)
 * **Version Control**: Git & GitHub
 
 ---
