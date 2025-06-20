@@ -19,7 +19,8 @@ All submissions are aligned with **Subject Matter Expert (SME)** evaluation stan
 │   ├── [HandsonNumber]_[ExerciseName]/       # Sub-folder for each exercise
 │   |   ├── Code/                             # Contains source code files
 │   |   ├── Output/                           # Contains output screenshots/files
-│   |   ├── obj/                              # Debug files, .json files, and other bin files.
+│   |   ├── obj/                              # Debug files, .json files, and other bin files
+│   |   ├── Understanding and Analysis/       # Insights, Analysis, Conclusions, and Understandings.
 ```
 
 
