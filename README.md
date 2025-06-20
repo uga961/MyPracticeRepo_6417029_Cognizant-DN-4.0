@@ -18,6 +18,7 @@ All submissions are aligned with **Subject Matter Expert (SME)** evaluation stan
 ├── [WeekNumber]_[Skill]/
 │   ├── [HandsonNumber]_[ExerciseName]/       # Sub-folder for each exercise
 │   |   ├── Code/                             # Contains source code files
+│   |   |   ├── others/                       # This contains the build information and other logs, note that the folders can be multiple and the names can be different.
 │   |   ├── Output/                           # Contains output screenshots/files
 │   |   ├── obj/                              # Debug files, .json files, and other bin files
 │   |   ├── Understanding and Analysis/       # Insights, Analysis, Conclusions, and Understandings.
