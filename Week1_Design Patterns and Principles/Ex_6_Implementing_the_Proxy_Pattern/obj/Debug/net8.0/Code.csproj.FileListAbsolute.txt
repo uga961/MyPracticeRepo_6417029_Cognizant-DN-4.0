@@ -1,0 +1,14 @@
+D:\Cognizant DN 4.0\Hands-on\Week1_Design Patterns and Principles\Ex_6_Implementing_the_Proxy_Pattern\Code\bin\Debug\net8.0\Code.exe
+D:\Cognizant DN 4.0\Hands-on\Week1_Design Patterns and Principles\Ex_6_Implementing_the_Proxy_Pattern\Code\bin\Debug\net8.0\Code.deps.json
+D:\Cognizant DN 4.0\Hands-on\Week1_Design Patterns and Principles\Ex_6_Implementing_the_Proxy_Pattern\Code\bin\Debug\net8.0\Code.runtimeconfig.json
+D:\Cognizant DN 4.0\Hands-on\Week1_Design Patterns and Principles\Ex_6_Implementing_the_Proxy_Pattern\Code\bin\Debug\net8.0\Code.dll
+D:\Cognizant DN 4.0\Hands-on\Week1_Design Patterns and Principles\Ex_6_Implementing_the_Proxy_Pattern\Code\bin\Debug\net8.0\Code.pdb
+D:\Cognizant DN 4.0\Hands-on\Week1_Design Patterns and Principles\Ex_6_Implementing_the_Proxy_Pattern\Code\obj\Debug\net8.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cognizant DN 4.0\Hands-on\Week1_Design Patterns and Principles\Ex_6_Implementing_the_Proxy_Pattern\Code\obj\Debug\net8.0\Code.AssemblyInfoInputs.cache
+D:\Cognizant DN 4.0\Hands-on\Week1_Design Patterns and Principles\Ex_6_Implementing_the_Proxy_Pattern\Code\obj\Debug\net8.0\Code.AssemblyInfo.cs
+D:\Cognizant DN 4.0\Hands-on\Week1_Design Patterns and Principles\Ex_6_Implementing_the_Proxy_Pattern\Code\obj\Debug\net8.0\Code.csproj.CoreCompileInputs.cache
+D:\Cognizant DN 4.0\Hands-on\Week1_Design Patterns and Principles\Ex_6_Implementing_the_Proxy_Pattern\Code\obj\Debug\net8.0\Code.dll
+D:\Cognizant DN 4.0\Hands-on\Week1_Design Patterns and Principles\Ex_6_Implementing_the_Proxy_Pattern\Code\obj\Debug\net8.0\refint\Code.dll
+D:\Cognizant DN 4.0\Hands-on\Week1_Design Patterns and Principles\Ex_6_Implementing_the_Proxy_Pattern\Code\obj\Debug\net8.0\Code.pdb
+D:\Cognizant DN 4.0\Hands-on\Week1_Design Patterns and Principles\Ex_6_Implementing_the_Proxy_Pattern\Code\obj\Debug\net8.0\Code.genruntimeconfig.cache
+D:\Cognizant DN 4.0\Hands-on\Week1_Design Patterns and Principles\Ex_6_Implementing_the_Proxy_Pattern\Code\obj\Debug\net8.0\ref\Code.dll
